@@ -11,8 +11,8 @@ To get a basic dropdown with the default settings, simply use the package as fol
 The default settings can be changed as well.
 
 	<@ Automad/Bootstrap/Autocomplete {
-		inputSelector: '#search',
-		highlightClass: 'text-primary'
+	    inputSelector: '#search',
+	    highlightClass: 'text-primary'
 	} @>
 
 ## Options
