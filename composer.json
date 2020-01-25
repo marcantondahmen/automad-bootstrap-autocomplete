@@ -1,6 +1,6 @@
 {
     "name": "automad/bootstrap-autocomplete",
-    "description": "This package is a wrapper for the bootstrap-4-autocomplete npm package and makes it easy to create Bootstrap 4 autocomplete dropdowns for search fields in Automad templates",
+    "description": "A wrapper for the bootstrap-4-autocomplete npm package that let's you create autocomplete dropdowns for search fields in Automad templates",
     "type": "automad-package",
     "keywords": ["extension"],
     "license": "MIT",
